@@ -15,3 +15,6 @@ The goal of this project is to showcase my understandings on visualizations and 
 **Deliverables**  
 To explore the data I have utilized the knowledge of plotting, statistical summaries, and visualization using Python
 Program can be found at : https://github.com/PMano07/Module5Assignment.git
+
+**Conclusion**  
+Exploring the data for coupons that are related to Bars, observed the drivers with kid passangers are lesslikely to accept the coupons. Noticed the Cofee house coupons are accepted when the drivers are not travelling to urgent place.
