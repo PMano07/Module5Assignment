@@ -13,4 +13,4 @@ In this assignment we are going to explore whether a customer accept the coupon?
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
 **Deliverables**  
-To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python
+To explore the data I have utilized the knowledge of plotting, statistical summaries, and visualization using Python
